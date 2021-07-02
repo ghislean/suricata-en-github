@@ -1,0 +1,37 @@
+.img div {
+    
+   
+}
+
+nav, footer {
+    background-color:#E83E8C;
+}
+h1{
+    text-align: center;
+    color:#707070 ;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.img {
+    top: 12px;
+    left: 119px;
+    width: 132px;
+    height: 53px;
+}
+
+.col-12  {
+    margin-bottom:  2rem; 
+    padding-bottom: 3rem;
+ }
+
+ .navbar {
+     height: 6rem;
+ }
+
+ .img-footer{
+     width: 5rem;
+     height: 4rem;
+ }
+
+ 
